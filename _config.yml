@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # "default", "air"
-title                    : "Mingzhe Zhang"
+title                    : "Mingzhe Zhang's site"
 title_separator          : "-"
 name                     : &name "Mingzhe Zhang"
 description              : &description "Academic homepage of Mingzhe Zhang"
