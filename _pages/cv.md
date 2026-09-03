@@ -11,54 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Ph.D. student in Computer Science**, Western University, 2026–present
+  - Jointly supervised by Prof. Boyu Wang (Computer Science) and Prof. Pingzhao Hu (Biochemistry)
+- **Honours bachelor's degree**, University of Toronto, 2022–2026
+  - Majors in Mathematics and Computer Science
+- **Secondary education**, Nanjing Foreign Language School, 2016–2022
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Interests
+======
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Machine learning for biomedical applications
+- Biomedical data analysis
 
-Publications
+Selected Research Project
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+- **[Respiratory Pattern Classification from ICU Chest Videos](https://github.com/Felixzhangmingzhe/video-based-respiratory-classifier)**, University of Toronto
+  - Extracted respiratory motion signals with optical flow and classified breathing patterns using frequency-domain features and a multilayer perceptron
+  - Supervised by Prof. Babak Taati
