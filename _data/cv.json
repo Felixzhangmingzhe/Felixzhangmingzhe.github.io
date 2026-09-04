@@ -2,7 +2,8 @@
   "basics": {
     "name": "Mingzhe Zhang",
     "label": "Ph.D. Student in Computer Science",
-    "email": "",
+    "email": "mzhan952@uwo.ca",
+    "personalEmail": "zhmz2021@outlook.com",
     "phone": "",
     "website": "https://felixzhangmingzhe.github.io",
     "summary": "Computer Science Ph.D. student at Western University, working at the intersection of machine learning and biomedical applications.",
@@ -52,15 +53,6 @@
       "endDate": "2026",
       "gpa": null,
       "courses": []
-    },
-    {
-      "institution": "Nanjing Foreign Language School",
-      "area": "Secondary education",
-      "studyType": "",
-      "startDate": "2016",
-      "endDate": "2022",
-      "gpa": null,
-      "courses": []
     }
   ],
   "skills": [],
@@ -69,7 +61,7 @@
     {
       "name": "Go (Weiqi)",
       "keywords": [
-        "Fox Go Server ID: 薛基"
+        "Fox Go (野狐) ID: 薛基"
       ]
     }
   ],
@@ -77,13 +69,5 @@
   "publications": [],
   "presentations": [],
   "teaching": [],
-  "portfolio": [
-    {
-      "name": "Respiratory Pattern Classification from ICU Chest Videos",
-      "category": "research project",
-      "date": "2026",
-      "url": "https://github.com/Felixzhangmingzhe/video-based-respiratory-classifier",
-      "description": "Undergraduate research project using optical flow, frequency-domain features, and a multilayer perceptron to classify respiratory patterns."
-    }
-  ]
+  "portfolio": []
 }

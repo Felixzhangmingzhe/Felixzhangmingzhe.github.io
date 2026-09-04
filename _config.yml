@@ -30,18 +30,21 @@ author:
   location         : "London, Ontario, Canada"
   employer         : "Western University"
   uri              : # URL
-  # email          : # Add a current public email address here when desired.
+  email            : "mzhan952@uwo.ca"
+  email_label      : "Western Email"
+  personal_email   : "zhmz2021@outlook.com"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar  : # Add a verified Google Scholar profile URL here when available.
+  googlescholar    : # URL to be added when the profile is created
+  googlescholar_placeholder: true
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  # orcid          : # Disabled until an ORCID profile is added.
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : # URL
+  # pubmed         : # Disabled until a PubMed profile is added.
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL

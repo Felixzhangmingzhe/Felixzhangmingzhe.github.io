@@ -29,6 +29,12 @@
         <i class="fas fa-envelope"></i> {{ cv.basics.email }}
       </div>
       {% endif %}
+
+      {% if cv.basics.personalEmail %}
+      <div class="cv-contact-item">
+        <i class="fas fa-envelope"></i> {{ cv.basics.personalEmail }}
+      </div>
+      {% endif %}
       
       {% if cv.basics.phone %}
       <div class="cv-contact-item">
@@ -38,7 +44,7 @@
       
       {% if cv.basics.website %}
       <div class="cv-contact-item">
-        <i class="fas fa-globe"></i> <a href="{{ cv.basics.website }}" target="_blank">{{ cv.basics.website }}</a>
+        <i class="fas fa-globe"></i> <a href="{{ cv.basics.website }}" target="_blank">Website</a>
       </div>
       {% endif %}
       
@@ -86,7 +92,7 @@
           {% endif %}
           {% if education.courses.size > 0 %}
           <div class="cv-item-detail">
-            <strong>Courses:</strong> {{ education.courses | join: ", " }}
+            Courses: {{ education.courses | join: ", " }}
           </div>
           {% endif %}
         </div>

@@ -5,3 +5,7 @@ Mingzhe Zhang:
   uri         : "https://felixzhangmingzhe.github.io"
   bio         : "Ph.D. student in Computer Science at Western University."
   avatar      : "profile.png"
+  email       : "mzhan952@uwo.ca"
+  email_label : "Western Email"
+  personal_email: "zhmz2021@outlook.com"
+  googlescholar_placeholder: true

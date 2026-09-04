@@ -30,7 +30,9 @@ _includes/、_layouts/、_sass/、assets/ 主要控制页面结构、样式和�
 
 ### 修改侧栏信息
 
-打开 _config.yml，在 author: 下修改 bio、location、employer 等字段。留空的社交账号不会显示。Bluesky 字段目前已注释，因此侧栏不会出现 Bluesky 账号链接。
+打开 _config.yml，在 author: 下修改 bio、location、employer、email 和 personal_email 等字段。留空的社交账号不会显示。Bluesky、ORCID 和 PubMed 字段目前已注释，因此侧栏不会出现这些链接。
+
+Google Scholar 目前通过 googlescholar_placeholder: true 显示为“coming soon”。创建主页后，把主页地址填入 googlescholar 字段即可自动变成可点击链接。
 
 ### 更换头像
 
