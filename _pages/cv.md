@@ -13,7 +13,7 @@ Education
 ======
 
 - Ph.D. student in Computer Science, Western University, 2026-present
-  - Jointly supervised by Prof. Boyu Wang (Computer Science) and Prof. Pingzhao Hu (Biochemistry)
+  - Jointly supervised by Prof. [Boyu Wang](https://sites.google.com/site/borriewang/) (Computer Science) and Prof. [Pingzhao Hu](https://phulab.org/) (Biochemistry)
 - Honours bachelor's degree, University of Toronto, 2022-2026
   - Majors in Mathematics and Computer Science
 
