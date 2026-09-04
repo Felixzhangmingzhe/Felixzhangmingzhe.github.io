@@ -37,3 +37,9 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Personal typography preference: keep all text at a normal weight while
+   preserving the weights required to render icon fonts. */
+body *:not(.fa):not(.fas):not(.far):not(.fab):not(.fal):not(.fad):not(.fa-solid):not(.fa-regular):not(.fa-brands):not(.ai) {
+  font-weight: 400 !important;
+}
