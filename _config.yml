@@ -31,8 +31,9 @@ author:
   employer         : "Western University"
   uri              : # URL
   email            : "mzhan952@uwo.ca"
-  email_label      : "Western Email"
+  email_label      : "Work"
   personal_email   : "zhmz2021@outlook.com"
+  personal_email_label: "Personal"
 
   # Academic websites
   academia         : # URL

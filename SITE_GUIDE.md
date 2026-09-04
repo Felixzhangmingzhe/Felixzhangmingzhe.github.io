@@ -32,7 +32,7 @@ _includes/、_layouts/、_sass/、assets/ 主要控制页面结构、样式和�
 
 打开 _config.yml，在 author: 下修改 bio、location、employer、email 和 personal_email 等字段。留空的社交账号不会显示。Bluesky、ORCID 和 PubMed 字段目前已注释，因此侧栏不会出现这些链接。
 
-Google Scholar 目前通过 googlescholar_placeholder: true 显示为“coming soon”。创建主页后，把主页地址填入 googlescholar 字段即可自动变成可点击链接。
+Google Scholar 目前通过 googlescholar_placeholder: true 显示为不可点击的占位项。创建主页后，把主页地址填入 googlescholar 字段即可自动变成可点击链接。
 
 ### 更换头像
 
@@ -56,7 +56,7 @@ Google Scholar 目前通过 googlescholar_placeholder: true 显示为“coming s
 
 ### 新增论文、报告或项目
 
-对应目录里保留了 Academic Pages 的示例文件，但这些示例已设置为 published: false，不会出现在网站上。复制最接近的示例，改成自己的内容、修改文件名，并删除复制文件中的 published: false 即可发布。
+对应目录里保留并显示了 Academic Pages 的原始示例文件。添加真实内容时，可以复制最接近的示例并修改；不希望继续显示示例时，应删除示例文件，或在其 YAML 区域加入 published: false。
 
 ## 在 WSL 中本地预览
 

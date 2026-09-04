@@ -16,5 +16,3 @@ Education
 
 - Western University, Ph.D. student in Computer Science, 2026-present
 - University of Toronto, Honours bachelor's degree with majors in Mathematics and Computer Science, 2022-2026
-
-This website is a work in progress. More information about my research and projects will be added as they develop.

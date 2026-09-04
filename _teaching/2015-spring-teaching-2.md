@@ -1,5 +1,4 @@
 ---
-published: false
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"

@@ -6,6 +6,7 @@ Mingzhe Zhang:
   bio         : "Ph.D. student in Computer Science at Western University."
   avatar      : "profile.png"
   email       : "mzhan952@uwo.ca"
-  email_label : "Western Email"
+  email_label : "Work"
   personal_email: "zhmz2021@outlook.com"
+  personal_email_label: "Personal"
   googlescholar_placeholder: true

@@ -1,5 +1,4 @@
 ---
-published: false
 title: "Paper Title Number 5, with math $$E=mc^2$$"
 collection: publications
 category: conferences
